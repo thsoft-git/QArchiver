@@ -1,0 +1,213 @@
+
+UNRAR 3.80 freeware      Copyright (c) 1993-2008 Alexander Roshal
+
+Archive _AMARO2008.rar
+
+Recovery record is present
+
+Pathname/Comment
+                  Size   Packed Ratio  Date   Time     Attr      CRC   Meth Ver
+               Host OS    Solid   Old
+-------------------------------------------------------------------------------
+ _AMARO2008\AR01_2008.pdf
+              19304394 19304394 100% 26-12-08 15:57  .....A.   7A6E3194 m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\AR02_2008.pdf
+              14144109 14144109 100% 26-12-08 16:02  .....A.   4B3363DB m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\AR03_2008.pdf
+              12865038 12865038 100% 26-12-08 16:08  .....A.   FBF8D33F m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\AR04_2008.pdf
+              12600954 12600954 100% 26-12-08 16:13  .....A.   A7C72BCE m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\AR05_2008.pdf
+              11343963 11343963 100% 26-12-08 16:18  .....A.   88F92A8F m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\AR06_2008.pdf
+              12912837 12912837 100% 26-12-08 16:22  .....A.   D5985923 m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\AR07_2008.pdf
+              13058121 13058121 100% 26-12-08 16:28  .....A.   175F96D9 m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\AR08_2008.pdf
+              11341952 11341952 100% 26-12-08 16:33  .....A.   EE8B7EE9 m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\AR09_2008.pdf
+              12995234 12995234 100% 26-12-08 16:38  .....A.   D78B6897 m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\AR10_2008.pdf
+              11558382 11558382 100% 26-12-08 16:43  .....A.   30C790A6 m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\AR11_2008.pdf
+              11271833 11271833 100% 31-12-08 20:16  .....A.   4B5FC6DD m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\AR12_2008.pdf
+              18080675 18080675 100% 31-12-08 20:15  .....A.   3B1F5446 m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\KE01_2008.pdf
+               7914632  7914632 100% 26-12-08 16:55  .....A.   0CEC3B16 m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\KE02_2008.pdf
+               1833364  1833364 100% 26-12-08 16:56  .....A.   FCD6C677 m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\KE03_2008.pdf
+               2265850  2265850 100% 26-12-08 16:58  .....A.   D2AB5C13 m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\KE04_2008.pdf
+              22493061 22493061 100% 26-12-08 17:01  .....A.   A01B9B03 m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\KE05_2008.pdf
+               1545880  1545880 100% 26-12-08 17:03  .....A.   00ED8F8B m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\KE06_2008.pdf
+               1873172  1873172 100% 26-12-08 17:07  .....A.   9E1ED853 m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\obsahAR2008.pdf
+                372486   372486 100% 31-12-08 20:26  .....A.   D8B64020 m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\ObsahPE2008.pdf
+                269188   269188 100% 28-12-08 16:21  .....A.   87DA5057 m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\ProgramyPE\0801_doorbell.zip
+                 95105    95105 100% 13-04-12 13:52  .....A.   7CA23E1C m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\ProgramyPE\0801_free_citac.zip
+                  3485     3485 100% 13-04-12 13:52  .....A.   403A0621 m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\ProgramyPE\0801_nixie.zip
+                 17196    17196 100% 13-04-12 13:52  .....A.   EEFD688D m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\ProgramyPE\0801_nixie_20080130_ch.zip
+                 12487    12487 100% 13-04-12 13:52  .....A.   FB031CBC m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\ProgramyPE\0802ke-lcmetr.zip
+                  2435     2435 100% 13-04-12 13:52  .....A.   997410EA m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\ProgramyPE\0802_1ok-citac.zip
+                 27244    27244 100% 13-04-12 13:52  .....A.   09443287 m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\ProgramyPE\0802_zaznamnik.zip
+                311349   311349 100% 13-04-12 13:52  .....A.   47863B90 m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\ProgramyPE\0803-displej.zip
+                  2068     2068 100% 13-04-12 13:52  .....A.   0314F698 m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\ProgramyPE\0804-alarmpodobraz.zip
+                   502      502 100% 13-04-12 13:53  .....A.   7F71A0CC m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\ProgramyPE\0805_pidibot.zip
+                315332   315332 100% 13-04-12 13:53  .....A.   B257446D m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\ProgramyPE\0805_websrv.zip
+                 46178    46178 100% 13-04-12 13:53  .....A.   EAA4F154 m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\ProgramyPE\0806_amppic.zip
+                138400   138400 100% 13-04-12 13:53  .....A.   095AA74C m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\ProgramyPE\0806_prepvideo.zip
+               1283083  1283083 100% 13-04-12 13:53  .....A.   71F1361B m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\ProgramyPE\0807-usb_trx_priklad.zip
+                  7769     7769 100% 13-04-12 13:53  .....A.   AD579062 m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\ProgramyPE\0808-motoalarm.zip
+                  2663     2663 100% 13-04-12 13:53  .....A.   1D9DDFDB m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\ProgramyPE\0808-uniir.zip
+                  1074     1074 100% 13-04-12 13:54  .....A.   CD9ADD88 m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\ProgramyPE\0808_rj-ch1.zip
+                 16451    16451 100% 13-04-12 13:54  .....A.   EB2469EF m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\ProgramyPE\0809-grafdispl.zip
+                 23907    23907 100% 13-04-12 13:54  .....A.   48BF9A78 m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\ProgramyPE\0809-osciloskop.zip
+                 29217    29217 100% 13-04-12 13:54  .....A.   15909258 m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\ProgramyPE\0809-pravitkoradisty.zip
+               1088233  1088233 100% 13-04-12 13:54  .....A.   80D09F40 m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\ProgramyPE\0809-vpr.zip
+                 67926    67926 100% 13-04-12 13:54  .....A.   C1C1CE91 m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\ProgramyPE\0810-bruno.zip
+                148385   148385 100% 13-04-12 13:54  .....A.   EDAE4AA2 m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\ProgramyPE\0810-krakatit.zip
+                  2014     2014 100% 13-04-12 13:54  .....A.   5F49E50B m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\ProgramyPE\0810-srdiecko.zip
+                  2726     2726 100% 13-04-12 13:54  .....A.   DE1B8010 m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\ProgramyPE\0810-terminal.zip
+                  4020     4020 100% 13-04-12 13:54  .....A.   2D79436F m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\ProgramyPE\0811-automat-n.zip
+                  2612     2612 100% 13-04-12 13:55  .....A.   79991218 m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\ProgramyPE\0811-casovac.zip
+                   959      959 100% 13-04-12 13:55  .....A.   E9B35152 m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\ProgramyPE\0811-century.zip
+                156560   156560 100% 13-04-12 13:55  .....A.   9A65066A m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\ProgramyPE\0812-mikrosol.zip
+                  2017     2017 100% 13-04-12 13:55  .....A.   B21BDCE6 m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\ProgramyPE\0812-stromecek.zip
+                  4860     4860 100% 13-04-12 13:55  .....A.   720EEA49 m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\_Amaro2008.pdf
+              10767969 10767969 100% 16-01-09 16:40  .....A.   2B66578D m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\_PE01_2008.pdf
+              11323037 11323037 100% 26-12-08 15:27  .....A.   3937F104 m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\_PE02_2008.pdf
+               9240368  9240368 100% 26-12-08 15:31  .....A.   9CD7B461 m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\_PE03_2008.pdf
+               9106488  9106488 100% 26-12-08 15:34  .....A.   E1A25B31 m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\_PE04_2008.pdf
+              11731355 11731355 100% 26-12-08 15:37  .....A.   B1263DBE m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\_PE05_2008.pdf
+               9372178  9372178 100% 26-12-08 15:39  .....A.   923CB896 m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\_PE06_2008.pdf
+               8755940  8755940 100% 26-12-08 15:42  .....A.   D3FE79EB m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\_PE07_2008.pdf
+              14908668 14908668 100% 26-12-08 17:27  .....A.   58C449F4 m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\_PE08_2008.pdf
+              14006713 14006713 100% 26-12-08 17:30  .....A.   7C8CB9F6 m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\_PE09_2008.pdf
+              15489957 15489957 100% 26-12-08 17:33  .....A.   3FEA98DD m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\_PE10_2008.pdf
+              12619529 12619529 100% 26-12-08 17:10  .....A.   0894FAC7 m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\_PE11_2008.pdf
+              13101461 13101461 100% 26-12-08 17:12  .....A.   C8B045AC m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\_PE12_2008.pdf
+               8862380  8862380 100% 26-12-08 17:15  .....A.   62198508 m0g 2.0
+              Win95/NT       No   No
+ _AMARO2008\ProgramyPE
+                     0        0   0% 13-04-12 13:55  .D.....   00000000 m0  2.0
+              Win95/NT       No   No
+ _AMARO2008
+                     0        0   0% 13-04-12 13:51  .D.....   00000000 m0  2.0
+              Win95/NT       No   No
+Data header type: RR
+ RR
+               3499692  3499692 100% 00-00-80 00:00   .....B   E6BEC9D1 m0a 2.9
+              Win95/NT       No   No
+-------------------------------------------------------------------------------
+   65        353147425 353147425 100%
+

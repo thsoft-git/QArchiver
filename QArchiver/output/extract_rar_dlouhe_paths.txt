@@ -1,0 +1,18 @@
+
+UNRAR 3.80 freeware      Copyright (c) 1993-2008 Alexander Roshal
+
+
+Extracting from archive_s_mooooooc_h¢dnØ_dlouhym_n zvem.rar
+
+Creating    archive_s_mooooooc_h¢dnØ_dlouhym_n zvem                   OK
+Creating    archive_s_mooooooc_h¢dnØ_dlouhym_n zvem\A_zase_hafo_znak…_jjffjklds…jsoipeo_adkao_lakdladkxv  OK
+Extracting  archive_s_mooooooc_h¢dnØ_dlouhym_n zvem\A_zase_hafo_znak…_jjffjklds…jsoipeo_adkao_lakdladkxv\Makefile.Debug       0%  OK 
+Extracting  archive_s_mooooooc_h¢dnØ_dlouhym_n zvem\A_zase_hafo_znak…_jjffjklds…jsoipeo_adkao_lakdladkxv\ui_extractdialog.h       1%  OK 
+Extracting  archive_s_mooooooc_h¢dnØ_dlouhym_n zvem\A_zase_hafo_znak…_jjffjklds…jsoipeo_adkao_lakdladkxv\ui_mainwindow.h       1%  OK 
+Extracting  archive_s_mooooooc_h¢dnØ_dlouhym_n zvem\Makefile               1%  OK 
+Creating    archive_s_mooooooc_h¢dnØ_dlouhym_n zvem\Týeba_i_s mezerou  OK
+Extracting  archive_s_mooooooc_h¢dnØ_dlouhym_n zvem\Týeba_i_s mezerou\Makefile.Release       2%  OK 
+Extracting  archive_s_mooooooc_h¢dnØ_dlouhym_n zvem\Týeba_i_s mezerou\ui_overwritedialog.h       2%  OK 
+Extracting  archive_s_mooooooc_h¢dnØ_dlouhym_n zvem\ui_progressdialog.h       2%  OK 
+Extracting  archive_s_mooooooc_h¢dnØ_dlouhym_n zvem\vc90.pdb               9% 15% 22% 28% 35% 41% 48% 54% 60% 67% 73% 80% 86% 93% 99%  OK 
+All OK

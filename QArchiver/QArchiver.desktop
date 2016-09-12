@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=QArchiver
+Name[cs]=QArchiver
+Name[sk]=QArchiver
+GenericName=Archiving Tool
+GenericName[cs]=Archivační nástroj
+GenericName[sk]=Archivačný nástroj
+Comment=Short Description Of Your App
+Comment[cs]=CZ Short Description Of Your App
+Comment[sk]=SK Short Description Of Your App
+Categories=Qt;KDE;Utility;Archiving;Compression;
+Icon=qarchiver
+Exec=qarchiver %f
+MimeType=application/x-tar;application/x-compressed-tar;application/x-bzip-compressed-tar;application/x-tarz;application/x-xz-compressed-tar;application/x-lzma-compressed-tar;application/x-deb;application/x-bcpio;application/x-cpio;application/x-cpio-compressed;application/x-sv4cpio;application/x-sv4crc;application/x-rpm;application/x-rar;application/x-7z-compressed;application/x-java-archive;application/zip;application/lha;application/x-lha;application/maclha;application/x-compress;application/x-gzip;application/x-bzip;application/x-lzma;application/x-xz;
+StartupNotify=true
+Terminal=false

@@ -1,0 +1,71 @@
+
+RAR 3.80   Copyright (c) 1993-2008 Alexander Roshal   16 Sep 2008
+Shareware version         Type RAR -? for help
+
+
+Testing archive archive.rar
+
+Testing     vc90.pdb                                                       2%  4%  6%  8% 10% 12% 14% 16% 18% 20% 23% 25% 27% 29% 31%  OK 
+Testing     Makefile                                                      31%  OK 
+Testing     Makefile.Debug                                                31%  OK 
+Testing     Makefile.Release                                              32%  OK 
+Testing     ui_extractdialog.h                                            32%  OK 
+Testing     ui_mainwindow.h                                               32%  OK 
+Testing     ui_overwritedialog.h                                          32%  OK 
+Testing     ui_progressdialog.h                                           32%  OK 
+Testing     QArchiver.exe                                                 34% 36% 38% 40% 41%  OK 
+Testing     QArchiver.pdb                                                 43% 45% 48% 50% 52% 54% 56% 58% 60% 62% 64% 66% 68% 71% 73% 75% 77% 79% 81% 83% 85% 87% 89% 92% 94% 96% 98% 99%  OK 
+All OK
+
+UNRAR 3.80 freeware      Copyright (c) 1993-2008 Alexander Roshal
+
+
+Testing archive archive.rar
+
+Testing     vc90.pdb                                                       2%  4%  6%  8% 10% 12% 14% 16% 18% 20% 23% 25% 27% 29% 31%  OK 
+Testing     Makefile                                                      31%  OK 
+Testing     Makefile.Debug                                                31%  OK 
+Testing     Makefile.Release                                              32%  OK 
+Testing     ui_extractdialog.h                                            32%  OK 
+Testing     ui_mainwindow.h                                               32%  OK 
+Testing     ui_overwritedialog.h                                          32%  OK 
+Testing     ui_progressdialog.h                                           32%  OK 
+Testing     QArchiver.exe                                                 34% 36% 38% 40% 41%  OK 
+Testing     QArchiver.pdb                                                 43% 45% 48% 50% 52% 54% 56% 58% 60% 62% 64% 66% 68% 71% 73% 75% 77% 79% 81% 83% 85% 87% 89% 92% 94% 96% 98% 99%  OK 
+All OK
+
+UNRAR 3.80 freeware      Copyright (c) 1993-2008 Alexander Roshal
+
+
+Testing archive archive.rar
+
+Testing     vc90.pdb                                                       2%  4%  6%  8% 10% 12% 14% 16% 18% 20% 23% 25% 27% 29% 31%  OK 
+Testing     Makefile                                                      31%  OK 
+Testing     Makefile.Debug                                                31%  OK 
+Testing     Makefile.Release                                              32%  OK 
+Testing     ui_extractdialog.h                                            32%  OK 
+Testing     ui_mainwindow.h                                               32%  OK 
+Testing     ui_overwritedialog.h                                          32%  OK 
+Testing     ui_progressdialog.h                                           32%  OK 
+Testing     QArchiver.exe                                                 34% 36% 38% 40% 41%  OK 
+Testing     QArchiver.pdb                                                 43% 45% 48% 50% 52% 54% 56% 58% 60% 62% 64% 66% 68% 71% 73% 75% 77% 79% 81% 83% 85% 87% 89% 92% 94% 96% 98% 99%  OK 
+All OK
+
+RAR 3.80   Copyright (c) 1993-2008 Alexander Roshal   16 Sep 2008
+Shareware version         Type RAR -? for help
+
+
+Testing archive archive_s_mooooooc_h¢dnØ_dlouhym_n zvem.rar
+
+Testing     archive_s_mooooooc_h¢dnØ_dlouhym_n zvem\A_zase_hafo_znak…_jjffjklds…jsoipeo_adkao_lakdladkxv\Makefile.Debug       0%  OK 
+Testing     archive_s_mooooooc_h¢dnØ_dlouhym_n zvem\A_zase_hafo_znak…_jjffjklds…jsoipeo_adkao_lakdladkxv\ui_extractdialog.h       1%  OK 
+Testing     archive_s_mooooooc_h¢dnØ_dlouhym_n zvem\A_zase_hafo_znak…_jjffjklds…jsoipeo_adkao_lakdladkxv\ui_mainwindow.h       1%  OK 
+Testing     archive_s_mooooooc_h¢dnØ_dlouhym_n zvem\Makefile               1%  OK 
+Testing     archive_s_mooooooc_h¢dnØ_dlouhym_n zvem\Týeba_i_s mezerou\Makefile.Release       2%  OK 
+Testing     archive_s_mooooooc_h¢dnØ_dlouhym_n zvem\Týeba_i_s mezerou\ui_overwritedialog.h       2%  OK 
+Testing     archive_s_mooooooc_h¢dnØ_dlouhym_n zvem\ui_progressdialog.h       2%  OK 
+Testing     archive_s_mooooooc_h¢dnØ_dlouhym_n zvem\vc90.pdb               9% 15% 22% 28% 35% 41% 48% 54% 60% 67% 73% 80% 86% 93% 99%  OK 
+Testing     archive_s_mooooooc_h¢dnØ_dlouhym_n zvem\A_zase_hafo_znak…_jjffjklds…jsoipeo_adkao_lakdladkxv  OK
+Testing     archive_s_mooooooc_h¢dnØ_dlouhym_n zvem\Týeba_i_s mezerou  OK
+Testing     archive_s_mooooooc_h¢dnØ_dlouhym_n zvem                   OK
+All OK

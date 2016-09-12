@@ -1,0 +1,40 @@
+#####################################################
+ Testing archive: archive_s_mooooooc_hódnì_dlouhym_názvem.rar -- 3.7.2015 20:38
+#####################################################
+
+Testing: archive_s_mooooooc_hódnì_dlouhym_názvem\A_zase_hafo_znakù_jjffjkldsùjsoipeo_adkao_lakdladkxv\Makefile.Debug
+Testing: archive_s_mooooooc_hódnì_dlouhym_názvem\A_zase_hafo_znakù_jjffjkldsùjsoipeo_adkao_lakdladkxv\ui_extractdialog.h
+Testing: archive_s_mooooooc_hódnì_dlouhym_názvem\A_zase_hafo_znakù_jjffjkldsùjsoipeo_adkao_lakdladkxv\ui_mainwindow.h
+Testing: archive_s_mooooooc_hódnì_dlouhym_názvem\Makefile
+Testing: archive_s_mooooooc_hódnì_dlouhym_názvem\Tøeba_i_s mezerou\Makefile.Release
+Testing: archive_s_mooooooc_hódnì_dlouhym_názvem\Tøeba_i_s mezerou\ui_overwritedialog.h
+Testing: archive_s_mooooooc_hódnì_dlouhym_názvem\ui_progressdialog.h
+Testing: archive_s_mooooooc_hódnì_dlouhym_názvem\vc90.pdb
+
+#####################################################
+ Done. -- 3.7.2015 20:38
+ There were no errors in the archive: archive_s_mooooooc_hódnì_dlouhym_názvem.rar
+
+// Test 2
+
+#####################################################
+ Testing archive: archive.rar -- 3.7.2015 20:41
+#####################################################
+
+Testing: vc90.pdb
+Testing: Makefile
+Testing: Makefile.Debug
+Testing: Makefile.Release
+Testing: ui_extractdialog.h
+Testing: ui_mainwindow.h
+Testing: ui_overwritedialog.h
+Testing: ui_progressdialog.h
+Testing: QArchiver.exe
+Testing: QArchiver.pdb
+
+#####################################################
+ Done. -- 3.7.2015 20:42
+ There were no errors in the archive: archive.rar
+
+
+

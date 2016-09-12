@@ -1,0 +1,17 @@
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Listing archive: C:\Users\Tom ç\QTTestDir\archive.rar.tar.gz
+
+--
+Path = C:\Users\Tom ç\QTTestDir\archive.rar.tar.gz
+Type = gzip
+
+----------
+Path = archive.rar
+Size = 1561886
+Packed Size = 1561731
+Modified = 2015-07-03 20:07:33
+Host OS = FAT
+CRC = CA51F118
+

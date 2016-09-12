@@ -1,0 +1,41 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=KonqPopupMenu/Plugin
+MimeType=all/all;
+Actions=compressAsTarGZ;compressAsTarBZ;compressAsZip;compressAs7z;compressTo;
+X-KDE-Submenu=QArchiver
+X-KDE-StartupNotify=false
+X-KDE-Priority=TopLevel
+
+[Desktop Action compressAsTarGZ]
+Name=Compress As TAR.GZ Archive
+Name[cs]=Zkomprimovat jako TAR.GZ
+Icon=qarchiver
+Exec=qarchiver --add --autofilename tar.gz %F
+
+[Desktop Action compressAsTarBZ]
+Name=Compress As TAR.BZ2 Archive
+Name[cs]=Zkomprimovat jako TAR.BZ2
+Icon=qarchiver
+Exec=qarchiver --add --autofilename tar.bz2 %F
+
+
+[Desktop Action compressAsZip]
+Name=Compress As ZIP Archive
+Name[cs]=Zkomprimovat jako ZIP
+Icon=qarchiver
+Exec=qarchiver --add --autofilename zip %F
+
+
+[Desktop Action compressAs7z]
+Name=Compress As 7-Zip Archive
+Name[cs]=Zkomprimovat jako 7-Zip
+Icon=qarchiver
+Exec=qarchiver --add --autofilename 7z %F
+
+
+[Desktop Action compressTo]
+Name=Compress To...
+Name[cs]=Zkomprimovat do...
+Icon=qarchiver
+Exec=qarchiver --add --dialog %F

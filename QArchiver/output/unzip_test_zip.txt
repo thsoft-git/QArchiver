@@ -1,0 +1,12 @@
+"C:\Qt\Qt Projects\QArchiver\app\bin\unzip.exe" -t czFileNames.zip >> unzip_test_zip.txt
+
+
+Archive:  czFileNames.zip
+    testing: ØçŸý§ì ¡‚.odt            OK
+    testing: TuŸå k.png               OK
+    testing: Vodop d.jpg              OK
+    testing: Slo§ka1/ØçŸý§ì ¡‚.odt    OK
+    testing: vc90.pdb                 OK
+    testing: ui_overwritedialog.h     OK
+    testing: release/                 OK
+No errors detected in compressed data of czFileNames.zip.

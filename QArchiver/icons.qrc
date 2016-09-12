@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/actions">
+        <file alias="archive-new">icons/archive-new.png</file>
+        <file alias="archive-open">icons/document-open.png</file>
+        <file alias="archive-insert">icons/archive-insert.png</file>
+        <file alias="archive-insert-dir">icons/archive-insert-directory.png</file>
+        <file alias="archive-extract">icons/archive-extract.png</file>
+        <file alias="archive-remove">icons/archive-remove.png</file>
+        <file alias="archive-test">icons/archive-test.png</file>
+        <file alias="archive-test_alt">icons/archive-test-alt.png</file>
+        <file alias="archive-codepage">icons/archive-codepage.png</file>
+        <file alias="document-preview">icons/document-preview-archive.png</file>
+        <file alias="open-recent">icons/document-open-recent.png</file>
+        <file alias="go-up">icons/go-up.png</file>
+        <file alias="dialog-ok">icons/dialog-ok.png</file>
+        <file alias="dialog-ok-apply">icons/dialog-ok-apply.png</file>
+        <file alias="dialog-cancel">icons/dialog-cancel.png</file>
+        <file alias="dialog-close">icons/dialog-close.png</file>
+        <file alias="application-exit">icons/application-exit.png</file>
+        <file alias="help-about">icons/help-about.png</file>
+    </qresource>
+    <qresource prefix="/tools">
+        <file alias="settings">icons/settings.png</file>
+        <file alias="encoding">icons/archive-codepage.png</file>
+    </qresource>
+</RCC>

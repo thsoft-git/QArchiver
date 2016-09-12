@@ -1,0 +1,8 @@
+Chybové hlášky libArchive - může se hodit při překladu
+
+archive_errno: archive_error_string
+
+84: Unrecognized archive format
+
+
+--add --dialog /home/thomas/QtTestDir/archive /home/thomas/QtTestDir/archive1

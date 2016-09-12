@@ -1,0 +1,72 @@
+
+UNRAR 3.80 freeware      Copyright (c) 1993-2008 Alexander Roshal
+
+
+Extracting from _AMARO2008.rar
+
+Creating    _AMARO2008                                                OK
+Extracting  _AMARO2008\AR01_2008.pdf                                       0%  1%  2%  3%  4%  5%  OK 
+Extracting  _AMARO2008\AR02_2008.pdf                                       5%  6%  7%  8%  9%  OK 
+Extracting  _AMARO2008\AR03_2008.pdf                                       9% 10% 11% 12%  OK 
+Extracting  _AMARO2008\AR04_2008.pdf                                      13% 14% 15% 16%  OK 
+Extracting  _AMARO2008\AR05_2008.pdf                                      16% 17% 18% 19%  OK 
+Extracting  _AMARO2008\AR06_2008.pdf                                      19% 20% 21% 22% 23%  OK 
+Extracting  _AMARO2008\AR07_2008.pdf                                      23% 24% 25% 26%  OK 
+Extracting  _AMARO2008\AR08_2008.pdf                                      26% 27% 28% 29% 30%  OK 
+Extracting  _AMARO2008\AR09_2008.pdf                                      30% 31% 32% 33%  OK 
+Extracting  _AMARO2008\AR10_2008.pdf                                      33% 34% 35% 36% 37%  OK 
+Extracting  _AMARO2008\AR11_2008.pdf                                      37% 38% 39% 40%  OK 
+Extracting  _AMARO2008\AR12_2008.pdf                                      40% 41% 42% 43% 44% 45%  OK 
+Extracting  _AMARO2008\KE01_2008.pdf                                      45% 46% 47%  OK 
+Extracting  _AMARO2008\KE02_2008.pdf                                      47% 48%  OK 
+Extracting  _AMARO2008\KE03_2008.pdf                                      48%  OK 
+Extracting  _AMARO2008\KE04_2008.pdf                                      48% 49% 50% 51% 52% 53% 54%  OK 
+Extracting  _AMARO2008\KE05_2008.pdf                                      54% 55%  OK 
+Extracting  _AMARO2008\KE06_2008.pdf                                      55%  OK 
+Extracting  _AMARO2008\obsahAR2008.pdf                                    55% 56%  OK 
+Extracting  _AMARO2008\ObsahPE2008.pdf                                    56%  OK 
+Creating    _AMARO2008\ProgramyPE                                     OK
+Extracting  _AMARO2008\ProgramyPE\0801_doorbell.zip                       56%  OK 
+Extracting  _AMARO2008\ProgramyPE\0801_free_citac.zip                     56%  OK 
+Extracting  _AMARO2008\ProgramyPE\0801_nixie.zip                          56%  OK 
+Extracting  _AMARO2008\ProgramyPE\0801_nixie_20080130_ch.zip              56%  OK 
+Extracting  _AMARO2008\ProgramyPE\0802ke-lcmetr.zip                       56%  OK 
+Extracting  _AMARO2008\ProgramyPE\0802_1ok-citac.zip                      56%  OK 
+Extracting  _AMARO2008\ProgramyPE\0802_zaznamnik.zip                      56%  OK 
+Extracting  _AMARO2008\ProgramyPE\0803-displej.zip                        56%  OK 
+Extracting  _AMARO2008\ProgramyPE\0804-alarmpodobraz.zip                  56%  OK 
+Extracting  _AMARO2008\ProgramyPE\0805_pidibot.zip                        56%  OK 
+Extracting  _AMARO2008\ProgramyPE\0805_websrv.zip                         56%  OK 
+Extracting  _AMARO2008\ProgramyPE\0806_amppic.zip                         56%  OK 
+Extracting  _AMARO2008\ProgramyPE\0806_prepvideo.zip                      56%  OK 
+Extracting  _AMARO2008\ProgramyPE\0807-usb_trx_priklad.zip                56%  OK 
+Extracting  _AMARO2008\ProgramyPE\0808-motoalarm.zip                      56%  OK 
+Extracting  _AMARO2008\ProgramyPE\0808-uniir.zip                          56%  OK 
+Extracting  _AMARO2008\ProgramyPE\0808_rj-ch1.zip                         56%  OK 
+Extracting  _AMARO2008\ProgramyPE\0809-grafdispl.zip                      56%  OK 
+Extracting  _AMARO2008\ProgramyPE\0809-osciloskop.zip                     56%  OK 
+Extracting  _AMARO2008\ProgramyPE\0809-pravitkoradisty.zip                56% 57%  OK 
+Extracting  _AMARO2008\ProgramyPE\0809-vpr.zip                            57%  OK 
+Extracting  _AMARO2008\ProgramyPE\0810-bruno.zip                          57%  OK 
+Extracting  _AMARO2008\ProgramyPE\0810-krakatit.zip                       57%  OK 
+Extracting  _AMARO2008\ProgramyPE\0810-srdiecko.zip                       57%  OK 
+Extracting  _AMARO2008\ProgramyPE\0810-terminal.zip                       57%  OK 
+Extracting  _AMARO2008\ProgramyPE\0811-automat-n.zip                      57%  OK 
+Extracting  _AMARO2008\ProgramyPE\0811-casovac.zip                        57%  OK 
+Extracting  _AMARO2008\ProgramyPE\0811-century.zip                        57%  OK 
+Extracting  _AMARO2008\ProgramyPE\0812-mikrosol.zip                       57%  OK 
+Extracting  _AMARO2008\ProgramyPE\0812-stromecek.zip                      57%  OK 
+Extracting  _AMARO2008\_Amaro2008.pdf                                     57% 58% 59% 60%  OK 
+Extracting  _AMARO2008\_PE01_2008.pdf                                     60% 61% 62% 63%  OK 
+Extracting  _AMARO2008\_PE02_2008.pdf                                     63% 64% 65%  OK 
+Extracting  _AMARO2008\_PE03_2008.pdf                                     65% 66% 67% 68%  OK 
+Extracting  _AMARO2008\_PE04_2008.pdf                                     68% 69% 70% 71%  OK 
+Extracting  _AMARO2008\_PE05_2008.pdf                                     71% 72% 73% 74%  OK 
+Extracting  _AMARO2008\_PE06_2008.pdf                                     74% 75% 76%  OK 
+Extracting  _AMARO2008\_PE07_2008.pdf                                     76% 77% 78% 79% 80% 81%  OK 
+Extracting  _AMARO2008\_PE08_2008.pdf                                     81% 82% 83% 84%  OK 
+Extracting  _AMARO2008\_PE09_2008.pdf                                     84% 85% 86% 87% 88% 89%  OK 
+Extracting  _AMARO2008\_PE10_2008.pdf                                     89% 90% 91% 92%  OK 
+Extracting  _AMARO2008\_PE11_2008.pdf                                     92% 93% 94% 95% 96%  OK 
+Extracting  _AMARO2008\_PE12_2008.pdf                                     96% 97% 98% 99%  OK 
+All OK
